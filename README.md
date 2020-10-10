@@ -15,4 +15,4 @@ Thanks batocera.linux!
 [linux(kernel)](https://github.com/lualiliu/RG351P-linux)
 
 # Test image
-[batocera-5.27.2-rg351p-20201010-test.img.7z](https://drive.google.com/file/d/1W_-eoQQsqjWRy8e-zWkK9UXOfkdYfz6r/view?usp=sharing)
+[batocera-5.27.2-rg351p-20201011-test.img.7z](https://drive.google.com/file/d/13pg_xMrTEq2u4fboxu6KDbu4Sb2rwYyG/view?usp=sharing)
